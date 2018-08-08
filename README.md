@@ -1,5 +1,5 @@
 # Kubeah PRD
-Protection and Recording Device
+Protection and Recording Device - Self hosted
 
 Use any JAVA environment to create a surveillance camera
 
