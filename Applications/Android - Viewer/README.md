@@ -1,5 +1,4 @@
 # Kubeah PRD
-Protection and Recording Device
+Android Viewer.
+Allows to see in real time the devices and configure them.
 
-<h3><b>Project in development</b></h3>
-<h4>No release created</h4>
